@@ -1,0 +1,3 @@
+rep "GameOff_Test@gameoff_jam@cloud.cn"
+  path "/"
+    smartbranch "/main"

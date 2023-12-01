@@ -1,0 +1,6 @@
+Assets/Plugins/Text/中文字体02.asset filter=lfs diff=lfs merge=lfs -text
+Assets/Plugins/Text/中文字体01.asset filter=lfs diff=lfs merge=lfs -text
+Library filter=lfs diff=lfs merge=lfs -text
+PackageCache filter=lfs diff=lfs merge=lfs -text
+com.unity.burst@1.8.4.Runtime filter=lfs diff=lfs merge=lfs -text
+libburst-llvm-14.dylib filter=lfs diff=lfs merge=lfs -text

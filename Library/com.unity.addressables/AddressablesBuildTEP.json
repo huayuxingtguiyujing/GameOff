@@ -1,0 +1,15 @@
+{
+"Date": "2023/12/1 15:43:32",
+"UnityVersion": "2023.1.1f1c1",
+"com.unity.scriptablebuildpipeline": "1.21.20",
+"com.unity.addressables": "1.21.18",
+"traceEvents": [
+{"name": "Building Default Build Script", "ph": "X", "dur": 129980.1, "tid": 1, "ts": 1007, "pid": 1}
+,{"name": "ProcessAllGroups", "ph": "X", "dur": 29766.1, "tid": 1, "ts": 3333, "pid": 1}
+,{"name": "Generate JSON Catalog", "ph": "X", "dur": 16848, "tid": 1, "ts": 36513, "pid": 1}
+,{"name": "Generating Json", "ph": "X", "dur": 317.699999999995, "tid": 1, "ts": 49158, "pid": 1}
+,{"name": "Hashing Catalog", "ph": "X", "dur": 1567.40000000001, "tid": 1, "ts": 49533, "pid": 1}
+,{"name": "Generate link", "ph": "X", "dur": 6644.7, "tid": 1, "ts": 53362, "pid": 1}
+,{"name": "Generate Settings", "ph": "X", "dur": 513.400000000004, "tid": 1, "ts": 60024, "pid": 1}
+]
+}
